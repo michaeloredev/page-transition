@@ -1,7 +1,8 @@
-import Image from "next/image";
-import styles from "./page.module.css";
 
-export default function Home() {
+
+export default function Home({}) {
+
+
   return (
     <section className="p-4">
       <div className="container">
